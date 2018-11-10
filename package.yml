@@ -1,16 +1,20 @@
 name       : python-pysrt
 version    : 1.1.1
-release    : 1
+release    : 2
 source     :
-    - https://pypi.python.org/packages/f6/33/16ad65a8973cb8bcb494af09ee1b9ab5ffdd6ff300bce5d3ac7d3cb1f2cc/pysrt-1.1.1.tar.gz : fb4c10424549fc5a32d19cd5091f00316b875461fcd79a7809bb55056974d0aa
-license    : GPL-3.0
+    - https://files.pythonhosted.org/packages/source/p/pysrt/pysrt-1.1.1.tar.gz : fb4c10424549fc5a32d19cd5091f00316b875461fcd79a7809bb55056974d0aa
+license    : GPL-3.0-or-later
 component  : programming.python
 summary    : SubRip (.srt) subtitle parser and writer
 description: |
-    SubRip (.srt) subtitle parser and writer
+    pysrt is a Python library used to edit or create SubRip files.
 builddeps  :
-    - python-setuptools
+    - python-chardet
+rundeps    :
+    - python-chardet
 build      : |
-    %python_setup
+    %python3_setup
 install    : |
-    %python_install
+    %python3_install
+check      : |
+    %python3_test
