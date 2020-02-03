@@ -2,15 +2,15 @@
     <Source>
         <Name>python-pysrt</Name>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-3.0-or-later</License>
         <PartOf>programming.python</PartOf>
         <Summary xml:lang="en">SubRip (.srt) subtitle parser and writer</Summary>
         <Description xml:lang="en">pysrt is a Python library used to edit or create SubRip files.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>python-pysrt</Name>
@@ -20,39 +20,39 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/srt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt-1.1.1-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/commands.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/comparablemixin.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/compat.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/srtexc.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/srtfile.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/srtitem.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/srttime.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/__pycache__/version.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/commands.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/comparablemixin.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/compat.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/srtexc.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/srtfile.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/srtitem.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/srttime.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pysrt/version.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.1-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/commands.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/comparablemixin.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/compat.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtexc.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtfile.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtitem.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srttime.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/version.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/commands.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/comparablemixin.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtexc.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtfile.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtitem.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srttime.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2018-11-10</Date>
+        <Update release="3">
+            <Date>2020-01-25</Date>
             <Version>1.1.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

@@ -1,6 +1,6 @@
 name       : python-pysrt
 version    : 1.1.1
-release    : 2
+release    : 3
 source     :
     - https://files.pythonhosted.org/packages/source/p/pysrt/pysrt-1.1.1.tar.gz : fb4c10424549fc5a32d19cd5091f00316b875461fcd79a7809bb55056974d0aa
 license    : GPL-3.0-or-later
