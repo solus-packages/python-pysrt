@@ -3,8 +3,8 @@
         <Name>python-pysrt</Name>
         <Homepage>https://github.com/byroot/pysrt</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-3.0-or-later</License>
         <PartOf>programming.python</PartOf>
@@ -21,39 +21,39 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/srt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt-1.1.2-py3.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/commands.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/comparablemixin.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/compat.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtexc.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtfile.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srtitem.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/srttime.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/__pycache__/version.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/commands.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/comparablemixin.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/compat.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtexc.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtfile.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srtitem.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/srttime.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pysrt/version.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt-1.1.2-py3.9.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/commands.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/comparablemixin.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/compat.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/srtexc.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/srtfile.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/srtitem.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/srttime.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/__pycache__/version.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/commands.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/comparablemixin.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/srtexc.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/srtfile.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/srtitem.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/srttime.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pysrt/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2020-09-11</Date>
+        <Update release="5">
+            <Date>2021-07-28</Date>
             <Version>1.1.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
